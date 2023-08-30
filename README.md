@@ -4,4 +4,6 @@ NPM     : 2206082455
 
 Kelas   : PBP E
 
-Hobi    : Turu
+Hobi    : Tidur
+
+Asal    : Warga Lokal
